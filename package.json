@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@angular/cdk": "^12.2.13",
+    "survey-angular": "^1.9.90",
+    "survey-angular-ui": "^1.9.90"
+  }
+}
